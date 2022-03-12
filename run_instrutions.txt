@@ -1,0 +1,12 @@
+Step 1: Create a New Project
+Step 2: Add dependency and JitPack Repository
+Step 3: Adding permissions in the AndroidManifest.xml
+Step 4: Creating new empty activities
+Step 5: Working with the activity_main.xml file
+Step 6: Creating a modal class for storing contacts 
+Step 7: Creating a layout file for the item to be displayed in RecyclerView
+Step 8: Creating an adapter class for setting data to each item 
+Step 9: Creating a new menu resource file for adding search view in the toolbar
+Step 10: Working with the MainActivity.java file 
+Step 11: Working with the CreateNewContactActivity 
+Step 12: Working with the ContactDetailActivity  
